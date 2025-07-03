@@ -98,16 +98,13 @@ Sprint 1 kapsamında ekip, projenin temel iskeletini tamamlayarak önemli ilerle
 Backend tarafında veritabanı yapısı ve güvenlik ayarları kuruldu, temel front-end render yapısı ve kullanıcı giriş-çıkış işlemleri hazırlandı. Gemini API başarıyla entegre edilerek kullanıcıdan gelen metin/görsel verisinin işlenmesi sağlandı ve testleri Postman üzerinden doğrulandı.
 Frontend tasarımda splash ekran, chatbot arayüzü, kullanıcı yönetimi ve içerik sayfalarının taslakları hazırlandı. Veri tarafında HAM10000 veri seti seçildi ve ön analizleri tamamlandı.
 Ekip, çıktıları gözden geçirerek eksik noktaları belirledi ve sonraki sprint için düzenleme kararları aldı.
-
+ 
 Sprint Review katılımcıları: Sude Özübek, Furkan Aras, Batuhan Umay, Ayşe Verda Gülcemal, Rabia Yılmaz
 ---
 
-## **Sprint Retrospective**
+## Sprint Retrospective
 
-- Takım rolleri netleştirildi, görev dağılımı güncellendi.
-- GitHub branch yapısı `backend`, `frontend`, `data` şeklinde düzenlendi.
-- Trello + Notion senkronize kullanımı kararlaştırıldı.
-- Bir sonraki sprint hedefi: backend API’nin modelle tam bağlanması, frontend görsel akışının tamamlanması.
+Ekip Sprint 1 sonunda genel iş paylaşımını değerlendirdi ve herkesin proje akışına katkısının net olduğu görüldü. Veri bilimi tarafında Furkan Aras ve Rabia Yılmaz, model eğitimi üzerine çalışmaya devam edecek. Batuhan Umay backend geliştirmeye odaklanırken, Sude Özübek API entegrasyonu ve backend sürecine destek verecek, Ayşe Verda Gülcemal ise frontend tasarımını ilerletecek.
 
 ---
 

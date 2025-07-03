@@ -1,96 +1,116 @@
 ## **Takım İsmi**
 
-**Imagine 4** 
-
-## **Takım Logosu**
-
-![Logo](https://github.com/user-attachments/assets/d3656d39-534d-46da-90d1-a48268980995)
-
-## Takım Elemanları
-
-|    | <div align="center">Name</div>   | <div align="center">Title</div>  | <div align="center">Socials</div>     |
-| :-----------: | :---------- | :---------- | :----------: |
-|  ![İsmailPhoto](https://github.com/user-attachments/assets/904d462c-f496-435e-99f4-1e5ddbdbe1c8)  | İsmail Dönmez     | Product Owner     | [![linkedin](https://github.com/user-attachments/assets/3baa645a-33bc-4786-8327-cb0f92356f0a)](https://www.linkedin.com/in/ismail-dz/)   | 
-|  ![İncilaPhoto](https://github.com/user-attachments/assets/dff428d7-8638-405f-b3a5-f820260f2572)    | İncila Kırbaç     | Scrum Master     |  [![linkedin](https://github.com/user-attachments/assets/3baa645a-33bc-4786-8327-cb0f92356f0a)](https://www.linkedin.com/in/incila-kirbac/) |
-|  ![İbrahimPhoto](https://github.com/user-attachments/assets/4f717eb9-db3a-453f-a703-5f6afdd70f09)  | İbrahim Serhat Aktaş      | Developer      |  [![linkedin](https://github.com/user-attachments/assets/3baa645a-33bc-4786-8327-cb0f92356f0a)](https://www.linkedin.com/in/ibrahim-serhat-aktas/)   |
-|   ![İpekPhoto](https://github.com/user-attachments/assets/563720b1-1bb6-445c-946b-ebcf1ae3d873)   | İpek Nezihe Can      | Developer     |    [![linkedin](https://github.com/user-attachments/assets/3baa645a-33bc-4786-8327-cb0f92356f0a)](https://www.linkedin.com/in/ipek-nezihe-can/)    |
-
-## Oyun İsmi
-
-**The Ghost of Anna**
-
-## Oyun Logosu
-
-![OyunLogo](https://github.com/user-attachments/assets/7ffdf8ab-bbc8-482d-8445-cc782f3ff38a) ![TextLogo](https://github.com/user-attachments/assets/6c792bb1-3ff9-4cba-836c-e7faf64f1694) 
-
-## Oyun Açıklaması
-
-- **The Ghost of Anna**, derin duygusal içeriğiyle öne çıkan, hikaye odaklı ve keşfetmeye dayalı bir Adventure/Puzzle oyunudur. Oyuncular, genç kız **Anna**'nın iç dünyasını derinlemesine keşfederken, onun zihnindeki mücadeleleri deneyimler. Bulmacaları çözer, gizemleri ortaya çıkarır ve **Anna**'nın büyüme ve içsel dönüşüm sürecinde ona rehberlik ederler. Oyunun dokusu ve atmosferi, oyuncuları duygusal olarak etkileyerek, benzersiz ve unutulmaz bir oyun deneyimi sunar.
-
-## Oyun Hikayesi
-
--   6 yaşındaki **Anna**, doğuştan gelen duyusal eksikliklerle hayatını sürdürmektedir. Görme, işitme, dokunma, tat ve koku gibi temel duyularından yoksun olmanın getirdiği zorluklarla büyüyen **Anna**, çevresini algılamak ve anlamak için büyük bir çaba harcamaktadır. Ancak, bir gece uyuduğunda, beklenmedik bir şekilde kendini tamamen farklı, büyülü bir evrende bulur. Bu büyülü evrenin aslında bir rüya olduğunu ve her bir korkusunu yendiğinde duyularını geri kazandığını fark etmeye başlar. Zorlu kanyon, kutuplar, karanlık labirent ve perili ormanlardaki düşmanlar, **Anna**'nın en büyük korkularından oluşmaktadır. Bu yolculukta, edindiği yoldaşların yardımı, sanata ve müziğe olan bağlığı ve annesinin günlük sayfalarından öğrendiği bilgilerle cesaret bulan **Anna**, korkularını yenmesinin ve çeşitli bulmacaları çözmesinin sonunda tüm duyularını geri kazanır ve hem kendisi hem de annesinin geçmişi hakkında derin bir anlayışa ulaşır. **Anna**, artık sadece duyularını geri kazanmış bir çocuk değil, aynı zamanda içsel gücünü ve cesaretini keşfetmiş bir birey olarak uyanır.
-
-## Oyun Özellikleri
-
-- 3D
-- Tek oyunculu
-- Macera/Puzzle
-- Derin hikaye örgüsü
-- Low-poly
-- Interaktif Görevler
-
-## Hedef Kitle
-
-- Bağımsız (Indie) Oyun Severler
-- Keşif ve Macera Severler
-- 13 ve Üzeri Yaşta Oyuncular
-
-## Pazarlama Planı
-
-- Ekip dinamiğinden ve ortaya çıkan üründen ötürü oyunumuzun derece alacağına ve gelecek vaadettiğine inanıyoruz. Bu nedenle oyunumuza reklam eklemek yerine bir Steam sayfası oluşturmayı hedefliyoruz.
-- Ürün değerlendirmesi sonrasında oyunumuzu geliştirmeye devam edip, güncel tutarak bir satış planı oluşturacağız.
-- Oyunumuzun başlangıç fiyatı 5-10$ aralığında belirlenmiştir.
-- Oyunumuzun severlerine yönelik özel merchandise (tişörtler, kupalar, posterler vb.) ürünleri de piyasaya sürülecektir. Bu, markamızın bilinirliğini artırırken, sadık müşterilerimize farklı kanallardan ulaşmamızı sağlayacaktır.
-
-## Product Backlog URL
-
-[Miro Backlog Board](https://miro.com/app/board/uXjVK7yGtNA=/)
+**DermAI**
 
 ---
 
-# Sprint 1
+## **Takım Logosu**
 
-- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilmektedir.
+![Logo](https://github.com/user-attachments/assets/your-dermai-logo.png)
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+---
 
-- **Puan tamamlama mantığı**: Proje boyunca tamamlanması gereken toplam 300 puanlık backlog bulunmaktadır. 3 sprinte bölündüğünde ilk sprintin 100 ile başlaması gerektiği kararlaştırıldı.
+## **Takım Elemanları**
 
-- **Backlog düzeni ve Story seçimleri**: Backlog'umuz bir sonraki sprintlerin temelini atacak şekilde düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde görevler dağıtılmıştır. Miro Board'da gözüken pembe item'lar _yazılım_, mor item'lar _ses_, açık yeşil item'lar _görsel efekt_, koyu yeşil item'lar _türü olmayan görevleri_ gösterirken, mavi item'lar _tasarım_ görevlerini temsil etmektedir. Sprint sonu günleri ekibin dinlenmesi amacıyla boş bırakılmıştır.
+|    | <div align="center">Name</div>   | <div align="center">Title</div>  | <div align="center">Socials</div>     |
+| :-----------: | :---------- | :---------- | :----------: |
+| ![SudePhoto](https://github.com/user-attachments/assets/your-sude-photo.png) | Sude Özübek | Product Owner | [![linkedin](https://github.com/user-attachments/assets/linkedin-icon.png)](https://www.linkedin.com/in/sudeozubek) |
+| ![FurkanPhoto](https://github.com/user-attachments/assets/your-furkan-photo.png) | Furkan Aras | Scrum Master | [![linkedin](https://github.com/user-attachments/assets/linkedin-icon.png)](https://www.linkedin.com/in/furkanaras) |
+| ![BatuhanPhoto](https://github.com/user-attachments/assets/your-batuhan-photo.png) | Batuhan Umay | Backend Developer | [![linkedin](https://github.com/user-attachments/assets/linkedin-icon.png)](https://www.linkedin.com/in/batuhanumay) |
+| ![AysePhoto](https://github.com/user-attachments/assets/your-ayse-photo.png) | Ayşe Verda Gülcemal | Frontend Developer | [![linkedin](https://github.com/user-attachments/assets/linkedin-icon.png)](https://www.linkedin.com/in/ayseverdagulcemal) |
+| ![RabiaPhoto](https://github.com/user-attachments/assets/your-rabia-photo.png) | Rabia Yılmaz | Data Engineer | [![linkedin](https://github.com/user-attachments/assets/linkedin-icon.png)](https://www.linkedin.com/in/rabiayilmaz) |
 
-- **Daily Scrum**: Daily Scrum toplantılarının Discord üzerinden yapılması kararlaştırılmıştır. Daily Scrum toplantılarımız ve günlük Whatsapp konuşmalarımız Imgur'da toplanmıştır.: [Sprint 1 - Daily Scrum Chats](https://imgur.com/a/daily-scrum-chats-1-VpkQl6x)
+---
 
-- **Sprint board update**: Sprint board screenshot: 
-![Backlog 1](https://github.com/user-attachments/assets/e9f43ef7-2d0b-472d-8211-f27f1a2e5eec) 
+## **Proje İsmi**
 
-<details> <summary><h3>Ürün Durumu: Ekran Görüntüleri</h3></summary>
-  
-  ![Screenshot 1](https://github.com/user-attachments/assets/da1981ad-b5fa-4731-b737-b2d35f10bea9)
-  ![Screenshot 2](https://github.com/isoszsh/project-anna/assets/154831174/1fbff295-eac4-41cb-bbec-3c77c458b289) 
-  ![Screenshot 3](https://github.com/isoszsh/project-anna/assets/154831174/31ff440e-af36-4b93-bc22-f98fe08c5659)
-  ![Screenshot 4](https://github.com/isoszsh/project-anna/assets/154831174/2db880d4-0aa8-4753-a9fc-51b31217a2a9)
-  ![Screenshot 5](https://github.com/isoszsh/project-anna/assets/154831174/f8552310-d0b8-45ea-b776-9f4786dca256)
+**SkinSentinel**
 
-  </details>
+---
 
-- **Sprint Review**: 
-  - Bütün ekip projede hangi kısımların bittiğini ve bunun hakkındaki görüşlerini iletti. Oyunun güncel tasarımının ve gidişatının beğenildiği belirtildi ve devamı üzerine yeni fikirler ortaya atıldı. Sprint içerisinde tasarlanmış olan level tüm ekip tarafından oynandı, herhangi bir sorun ile karşılaşılmadı.
-  - Sprint Review katılımcıları: İsmail Dönmez, İncila Kırbaç, İbrahim Serhat Aktaş, İpek Nezihe Can, İrfan Şenatlı.
+## **Proje Logosu**
 
-- **Sprint Retrospective:** 
-  - Ekip iki gruba bölündü, bir grup oyunun kalan 4 bölümü üzerinde çalışarak ilerlemeye devam edecek; diğer ekip ise oluşturulan bölümlerin eksiklikleri üzerinde çalışacak ve oyunu final aşamasına hazır hale getirecek.
-    - Grup 1: İsmail, İncila
-    - Grup 2: İbrahim, İpek, İrfan
-  - Toplantıların belirli bir zaman aralığıyla gerçekleştirilmesi kararlaştırıldı.
-  - Üretim aşamasında görev alan ekip üyelerine gelecek bölümlerde ihtiyaç duyulabilecek assetlerin üretimi için listeler hazırlandı
+![ProjeLogo](https://github.com/user-attachments/assets/your-skinsentinel-logo.png)
+
+---
+
+## **Proje Açıklaması**
+
+**SkinSentinel**, kullanıcıların cilt görsellerini yükleyerek potansiyel cilt rahatsızlıklarına dair **erken uyarı** niteliğinde yapay zeka destekli ön bilgilendirme sunan bir platformdur. Tanı koymak yerine, farkındalık oluşturarak kullanıcının sağlık kuruluşuna başvuru motivasyonunu artırmayı hedefler.
+
+---
+
+## **Kullanım Senaryosu**
+
+- Kullanıcı sisteme cilt görselini yükler.
+- Görsel, HAM10000 veri setiyle eğitilmiş AI modeli tarafından analiz edilir.
+- Model, olasılık tahmini yapar.
+- Kullanıcı Gemini destekli Chatbot üzerinden detaylı açıklama alır.
+- Premium üyelikle rapor kaydı ve ek analizler sağlanır.
+
+---
+
+## **Hedef Kitle**
+
+- Cilt sağlığı konusunda bilinçlenmek isteyen genç yetişkinler
+- Dijital sağlık okuryazarlığını artırmak isteyen herkes
+- Erken teşhis için ben, akne, leke takibi yapmak isteyen kullanıcılar
+
+---
+
+## **Product Backlog**
+
+[Trello Board Linki](https://trello.com/b/XGJi2Ldu/team-board)
+
+---
+
+# **Sprint 1**
+
+- **Sprint Notları**: User Story’ler Trello kartlarında detaylı biçimde yazılmıştır. Kartlara tıklandığında görev kapsamları görülebilir.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 30 Puan
+
+- **Puan tamamlama mantığı**: Projenin toplamda 100 puanlık backlog’u vardır. Sprint 1 için 30 puan planlanmıştır ve sprint sonunda tamamlanmıştır.
+
+- **Backlog düzeni ve Story seçimleri**: Backlog, veri temizliği, backend API taslağı, frontend yükleme formu, Gemini entegrasyonu planlama gibi temel adımları kapsayacak şekilde seçilmiştir.
+
+- **Daily Scrum**: Whatsapp grubu ve Notion üzerinden yürütülmüştür. Ekran görüntüleri: [Sprint 1 - Daily Scrum Chats](https://imgur.com/a/your-daily-scrum-chats)
+
+- **Sprint Board Güncellemesi**:
+![Sprint Board](https://github.com/user-attachments/assets/your-sprint-board.png)
+
+---
+
+<details> <summary><h3>Ürün Durumu: Ekran Görselleri</h3></summary>
+
+![DatasetFolder](https://github.com/user-attachments/assets/your-dataset-folder.png)
+![BackendAPI](https://github.com/user-attachments/assets/your-backend-api.png)
+![FrontendMockup](https://github.com/user-attachments/assets/your-frontend-mockup.png)
+![GeminiPrompt](https://github.com/user-attachments/assets/your-gemini-prompt.png)
+
+</details>
+
+---
+
+## **Sprint Review**
+
+- HAM10000 veri seti temizlendi, model eğitimi için hazırlandı.
+- Batuhan Umay backend `/uploadImage` endpoint taslağını geliştirdi.
+- Ayşe Verda Gülcemal frontend mockup’ı oluşturdu.
+- Gemini API entegrasyonu için temel plan hazırlandı.
+- Product Owner Sude Özübek gereksinimleri kontrol etti, Scrum Master Furkan Aras süreci yönetti.
+
+Sprint Review katılımcıları: Sude Özübek, Furkan Aras, Batuhan Umay, Ayşe Verda Gülcemal, Rabia Yılmaz.
+
+---
+
+## **Sprint Retrospective**
+
+- Takım rolleri netleştirildi, görev dağılımı güncellendi.
+- GitHub branch yapısı `backend`, `frontend`, `data` şeklinde düzenlendi.
+- Trello + Notion senkronize kullanımı kararlaştırıldı.
+- Bir sonraki sprint hedefi: backend API’nin modelle tam bağlanması, frontend görsel akışının tamamlanması.
+
+---
+
+> **DermAI — SkinSentinel | Sprint 1 Başarıyla Tamamlandı 🚀**

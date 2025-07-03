@@ -94,14 +94,12 @@
 
 ## **Sprint Review**
 
-- HAM10000 veri seti temizlendi, model eğitimi için hazırlandı.
-- Batuhan Umay backend `/uploadImage` endpoint taslağını geliştirdi.
-- Ayşe Verda Gülcemal frontend mockup’ı oluşturdu.
-- Gemini API entegrasyonu için temel plan hazırlandı.
-- Product Owner Sude Özübek gereksinimleri kontrol etti, Scrum Master Furkan Aras süreci yönetti.
+Sprint 1 kapsamında ekip, projenin temel iskeletini tamamlayarak önemli ilerleme kaydetti.
+Backend tarafında veritabanı yapısı ve güvenlik ayarları kuruldu, temel front-end render yapısı ve kullanıcı giriş-çıkış işlemleri hazırlandı. Gemini API başarıyla entegre edilerek kullanıcıdan gelen metin/görsel verisinin işlenmesi sağlandı ve testleri Postman üzerinden doğrulandı.
+Frontend tasarımda splash ekran, chatbot arayüzü, kullanıcı yönetimi ve içerik sayfalarının taslakları hazırlandı. Veri tarafında HAM10000 veri seti seçildi ve ön analizleri tamamlandı.
+Ekip, çıktıları gözden geçirerek eksik noktaları belirledi ve sonraki sprint için düzenleme kararları aldı.
 
-Sprint Review katılımcıları: Sude Özübek, Furkan Aras, Batuhan Umay, Ayşe Verda Gülcemal, Rabia Yılmaz.
-
+Sprint Review katılımcıları: Sude Özübek, Furkan Aras, Batuhan Umay, Ayşe Verda Gülcemal, Rabia Yılmaz
 ---
 
 ## **Sprint Retrospective**

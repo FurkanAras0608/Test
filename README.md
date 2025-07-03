@@ -76,7 +76,8 @@
 
 - **Daily Scrum**: Whatsapp grubu ve Notion üzerinden yürütülmüştür. Ekran görüntüleri: [Sprint 1 - Daily Scrum Chats](https://imgur.com/a/your-daily-scrum-chats)
 
-- **Sprint Board Güncellemesi**:
+- **Sprint Board Güncellemesi**: Sprint Board Güncellemesi: Sprint Board’da tüm işler Done sütununa taşınmıştır. Kanıt ekran görüntüsü aşağıda yer almaktadır.
+  
 ![Sprint Board](https://github.com/user-attachments/assets/your-sprint-board.png)
 
 ---

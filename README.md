@@ -100,7 +100,7 @@ Frontend tasarımda splash ekran, chatbot arayüzü, kullanıcı yönetimi ve i�
 Ekip, çıktıları gözden geçirerek eksik noktaları belirledi ve sonraki sprint için düzenleme kararları aldı.
  
 Sprint Review katılımcıları: Sude Özübek, Furkan Aras, Batuhan Umay, Ayşe Verda Gülcemal, Rabia Yılmaz
----
+
 
 ## Sprint Retrospective
 

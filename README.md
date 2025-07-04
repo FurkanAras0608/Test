@@ -68,7 +68,7 @@
 - **Daily Scrum**: Meet üzerinden haftada 2 gün toplantı yapılarak yürütülmüştür Ekran görüntüleri:
 - [Sprint 1 - Daily Scrum Chats](https://imgur.com/a/GJECLl9)
 
-- **Sprint Board Güncellemesi**: Sprint Board Güncellemesi: Sprint Board’da tüm işler Done sütununa taşınmıştır. Kanıt ekran görüntüsü aşağıda yer almaktadır.
+- **Sprint Board Güncellemesi**: Sprint 1 görevleri tamamlanarak Done sütununa taşınmıştır. Sprint 2 için planlanan işler Sprint Backlog ve In Progress sütunlarına taşınarak çalışma süreci başlatılmıştır. Güncel sprint board durumu aşağıda yer almaktadır.
   
 ![Sprint Board](https://github.com/user-attachments/assets/your-sprint-board.png)
 

@@ -74,13 +74,14 @@
 
 ---
 
-## Ürün Durumu: Ekran Görselleri
----
+<details> <summary><h3>Ürün Durumu: Ekran Görüntüleri</h3></summary>
+  
+  ![Ürün Görseli](1.jpg)
+  ![Ürün Görseli](2.jpg)
+  ![Ürün Görseli](3.jpg)
+  ![Ürün Görseli](4.jpg)
 
-![Ürün Görseli](1.jpg)
-![Ürün Görseli](2.jpg)
-![Ürün Görseli](3.jpg)
-![Ürün Görseli](4.jpg)
+  </details>
 
 ## **Sprint Review**
 

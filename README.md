@@ -74,10 +74,10 @@
 
 ---
 
-<details> <summary><h3>Ürün Durumu: Ekran Görselleri</h3></summary>
-
-images/urun1.png
+## Ürün Durumu: Ekran Görselleri
 ---
+
+![Ürün Görseli](images/urun1.png)
 
 ## **Sprint Review**
 

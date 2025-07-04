@@ -65,7 +65,8 @@
 
 - **Backlog düzeni ve Story seçimleri**: Backlog, veri temizliği, backend API taslağı, frontend yükleme formu, Gemini entegrasyonu planlama gibi temel adımları kapsayacak şekilde seçilmiştir.
 
-- **Daily Scrum**: Whatsapp grubu ve Notion üzerinden yürütülmüştür. Ekran görüntüleri: [Sprint 1 - Daily Scrum Chats](https://imgur.com/a/your-daily-scrum-chats)
+- **Daily Scrum**: Meet üzerinden haftada 2 gün toplantı yapılarak yürütülmüştür Ekran görüntüleri:
+- [Sprint 1 - Daily Scrum Chats](https://imgur.com/a/GJECLl9)
 
 - **Sprint Board Güncellemesi**: Sprint Board Güncellemesi: Sprint Board’da tüm işler Done sütununa taşınmıştır. Kanıt ekran görüntüsü aşağıda yer almaktadır.
   

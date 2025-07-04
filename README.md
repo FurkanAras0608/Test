@@ -77,7 +77,7 @@
 ## Ürün Durumu: Ekran Görselleri
 ---
 
-![Ürün Görseli](images/1.jpg)
+![Ürün Görseli](1.jpg)
 
 ## **Sprint Review**
 

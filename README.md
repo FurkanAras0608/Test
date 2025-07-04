@@ -76,13 +76,7 @@
 
 <details> <summary><h3>Ürün Durumu: Ekran Görselleri</h3></summary>
 
-![DatasetFolder](https://github.com/user-attachments/assets/your-dataset-folder.png)
-![BackendAPI](https://github.com/user-attachments/assets/your-backend-api.png)
-![FrontendMockup](https://github.com/user-attachments/assets/your-frontend-mockup.png)
-![GeminiPrompt](https://github.com/user-attachments/assets/your-gemini-prompt.png)
-
-</details>
-
+images/urun1.png
 ---
 
 ## **Sprint Review**

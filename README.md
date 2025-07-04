@@ -4,11 +4,6 @@
 
 ---
 
-## **Takım Logosu**
-
-![Logo](https://github.com/user-attachments/assets/your-dermai-logo.png)
-
----
 
 ## **Takım Elemanları**
 
@@ -28,11 +23,6 @@
 
 ---
 
-## **Proje Logosu**
-
-![ProjeLogo](https://github.com/user-attachments/assets/your-skinsentinel-logo.png)
-
----
 
 ## **Proje Açıklaması**
 
@@ -60,7 +50,7 @@
 
 ## **Product Backlog**
 
-[Trello Board Linki](https://trello.com/b/XGJi2Ldu/team-board)
+[Trello Board Linki]([https://trello.com/b/XGJi2Ldu/team-board](https://trello.com/invite/b/6866be4097df812fc254a5cc/ATTI51ebcbd29a28cf54af86b62823427c4fD08A05D6/skinsentinel))
 
 ---
 

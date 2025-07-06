@@ -7,13 +7,13 @@
 
 ## **Takım Elemanları**
 
-|    | <div align="center">Name</div>   | <div align="center">Title</div>  | <div align="center">Socials</div>     |
-| :-----------: | :---------- | :---------- | :----------: |
-| ![SudePhoto](Sude.jpeg) | Sude Özübek | Product Owner | [![linkedin](https://github.com/user-attachments/assets/linkedin-icon.png)](https://www.linkedin.com/in/sudeozubek?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app ) |
-| ![FurkanPhoto](Furkan.jpeg) | Furkan Aras | Scrum Master | [![linkedin](https://github.com/user-attachments/assets/linkedin-icon.png)](linkedin.com/in/furkanarass) |
-| ![BatuhanPhoto](Batuhan.jpeg) | Batuhan Umay | Backend Developer | [![linkedin](https://github.com/user-attachments/assets/linkedin-icon.png)](https://www.linkedin.com/in/batuhanumay/) |
-| ![AysePhoto](Ayşe.jpeg) | Ayşe Verda Gülcemal | Frontend Developer | [![linkedin](https://github.com/user-attachments/assets/linkedin-icon.png)](https://www.linkedin.com/in/ayse-verda-gulcemal-5ba448249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app ) |
-| ![RabiaPhoto](Rabia.jpeg) | Rabia Yılmaz | Data Engineer | [![linkedin](https://github.com/user-attachments/assets/linkedin-icon.png)](https://www.linkedin.com/in/rabia-y%C4%B1lmaz-1b1424273/) |
+| <div align="center">Name</div> | <div align="center">Title</div> | <div align="center">Socials</div> |
+| :------------: | :------------: | :------------: |
+| <img src="Sude.jpeg" alt="Sude Özübek" width="120"/> | **Sude Özübek** <br> Product Owner | [![linkedin](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/sudeozubek) |
+| <img src="Furkan.jpeg" alt="Furkan Aras" width="120"/> | **Furkan Aras** <br> Scrum Master | [![linkedin](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/furkanaras) |
+| <img src="Batuhan.jpeg" alt="Batuhan Umay" width="120"/> | **Batuhan Umay** <br> Backend Developer | [![linkedin](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/batuhanumay) |
+| <img src="Ayse.jpeg" alt="Ayşe Verda Gülcemal" width="120"/> | **Ayşe Verda Gülcemal** <br> Frontend Developer | [![linkedin](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/ayseverdagulcemal) |
+| <img src="Rabia.jpeg" alt="Rabia Yılmaz" width="120"/> | **Rabia Yılmaz** <br> Data Engineer | [![linkedin](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/rabiayilmaz) |
 
 ---
 

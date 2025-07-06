@@ -99,5 +99,3 @@ Ekip Sprint 1 sonunda genel iş paylaşımını değerlendirdi ve herkesin proje
 
 ---
 
-## Teknik Doküman Taslağı
-Sprint 1 sonunda ekip, teknik plan akışını temel seviyede belirlemiş olup detaylandırma Sprint 2 sonunda tamamlanacaktır.

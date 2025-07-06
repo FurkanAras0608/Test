@@ -59,9 +59,9 @@
 
 - **Sprint Notları**: User Story’ler Trello kartlarında detaylı biçimde yazılmıştır. Kartlara tıklandığında görev kapsamları görülebilir.
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 30 Puan
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
-- **Puan tamamlama mantığı**: Projenin toplamda 100 puanlık backlog’u vardır. Sprint 1 için 30 puan planlanmıştır ve sprint sonunda tamamlanmıştır.
+- **Puan tamamlama mantığı**: Projenin toplamda 300 puanlık backlog’u vardır. Sprint 1 için 100 puan planlanmıştır ve sprint sonunda tamamlanmıştır.
 
 - **Backlog düzeni ve Story seçimleri**: Backlog, veri temizliği, backend API taslağı, frontend yükleme formu, Gemini entegrasyonu planlama gibi temel adımları kapsayacak şekilde seçilmiştir.
 

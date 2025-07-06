@@ -9,11 +9,11 @@
 
 |    | <div align="center">Name</div>   | <div align="center">Title</div>  | <div align="center">Socials</div>     |
 | :-----------: | :---------- | :---------- | :----------: |
-| ![SudePhoto](https://github.com/user-attachments/assets/your-sude-photo.png) | Sude Özübek | Product Owner | [![linkedin](https://github.com/user-attachments/assets/linkedin-icon.png)](https://www.linkedin.com/in/sudeozubek) |
-| ![FurkanPhoto](https://github.com/user-attachments/assets/your-furkan-photo.png) | Furkan Aras | Scrum Master | [![linkedin](https://github.com/user-attachments/assets/linkedin-icon.png)](https://www.linkedin.com/in/furkanaras) |
-| ![BatuhanPhoto](https://github.com/user-attachments/assets/your-batuhan-photo.png) | Batuhan Umay | Backend Developer | [![linkedin](https://github.com/user-attachments/assets/linkedin-icon.png)](https://www.linkedin.com/in/batuhanumay) |
-| ![AysePhoto](https://github.com/user-attachments/assets/your-ayse-photo.png) | Ayşe Verda Gülcemal | Frontend Developer | [![linkedin](https://github.com/user-attachments/assets/linkedin-icon.png)](https://www.linkedin.com/in/ayseverdagulcemal) |
-| ![RabiaPhoto](https://github.com/user-attachments/assets/your-rabia-photo.png) | Rabia Yılmaz | Data Engineer | [![linkedin](https://github.com/user-attachments/assets/linkedin-icon.png)](https://www.linkedin.com/in/rabiayilmaz) |
+| ![SudePhoto](Sude.jpeg) | Sude Özübek | Product Owner | [![linkedin](https://github.com/user-attachments/assets/linkedin-icon.png)](https://www.linkedin.com/in/sudeozubek?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app ) |
+| ![FurkanPhoto](Furkan.jpeg) | Furkan Aras | Scrum Master | [![linkedin](https://github.com/user-attachments/assets/linkedin-icon.png)](linkedin.com/in/furkanarass) |
+| ![BatuhanPhoto](Batuhan.jpeg) | Batuhan Umay | Backend Developer | [![linkedin](https://github.com/user-attachments/assets/linkedin-icon.png)](https://www.linkedin.com/in/batuhanumay/) |
+| ![AysePhoto](Ayşe.jpeg) | Ayşe Verda Gülcemal | Frontend Developer | [![linkedin](https://github.com/user-attachments/assets/linkedin-icon.png)](https://www.linkedin.com/in/ayse-verda-gulcemal-5ba448249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app ) |
+| ![RabiaPhoto](Rabia.jpeg) | Rabia Yılmaz | Data Engineer | [![linkedin](https://github.com/user-attachments/assets/linkedin-icon.png)](https://www.linkedin.com/in/rabia-y%C4%B1lmaz-1b1424273/) |
 
 ---
 

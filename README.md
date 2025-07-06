@@ -1,6 +1,6 @@
 ## **Takım İsmi**
 
-**DermAI**
+**Rapid Devs**
 
 ---
 

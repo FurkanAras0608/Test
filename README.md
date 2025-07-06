@@ -9,11 +9,11 @@
 
 | <div align="center">Name</div> | <div align="center">Title</div> | <div align="center">Socials</div> |
 | :------------: | :------------: | :------------: |
-| <img src="Sude.jpeg" alt="Sude Özübek" width="120"/> | **Sude Özübek** <br> Product Owner | [![linkedin](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/sudeozubek) |
-| <img src="Furkan.jpeg" alt="Furkan Aras" width="120"/> | **Furkan Aras** <br> Scrum Master | [![linkedin](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/furkanaras) |
-| <img src="Batuhan.jpeg" alt="Batuhan Umay" width="120"/> | **Batuhan Umay** <br> Backend Developer | [![linkedin](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/batuhanumay) |
-| <img src="Ayse.jpeg" alt="Ayşe Verda Gülcemal" width="120"/> | **Ayşe Verda Gülcemal** <br> Frontend Developer | [![linkedin](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/ayseverdagulcemal) |
-| <img src="Rabia.jpeg" alt="Rabia Yılmaz" width="120"/> | **Rabia Yılmaz** <br> Data Engineer | [![linkedin](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/rabiayilmaz) |
+| <img src="Sude.jpeg" alt="Sude Özübek" width="120"/> | **Sude Özübek** <br> Product Owner | [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30"/>](https://www.linkedin.com/in/sudeozubek) |
+| <img src="Furkan.jpeg" alt="Furkan Aras" width="120"/> | **Furkan Aras** <br> Scrum Master | [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30"/>](https://www.linkedin.com/in/furkanaras) |
+| <img src="Batuhan.jpeg" alt="Batuhan Umay" width="120"/> | **Batuhan Umay** <br> Backend Developer | [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30"/>](https://www.linkedin.com/in/batuhanumay) |
+| <img src="Ayse.jpeg" alt="Ayşe Verda Gülcemal" width="120"/> | **Ayşe Verda Gülcemal** <br> Frontend Developer | [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30"/>](https://www.linkedin.com/in/ayseverdagulcemal) |
+| <img src="Rabia.jpeg" alt="Rabia Yılmaz" width="120"/> | **Rabia Yılmaz** <br> Data Engineer | [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30"/>](https://www.linkedin.com/in/rabiayilmaz) |
 
 ---
 

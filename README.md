@@ -99,3 +99,47 @@ Ekip Sprint 1 sonunda genel iş paylaşımını değerlendirdi ve herkesin proje
 
 ---
 
+# **Sprint 1**
+
+- **Sprint Notları**: User Story’ler Trello kartlarında detaylı biçimde yazılmıştır. Kartlara tıklandığında görev kapsamları görülebilir. Yeterince açıklayıcı görev adı olan kartlarda görev kapsamları eklenmemiştir.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+
+- **Puan tamamlama mantığı**: Projenin toplamda 300 puanlık backlog’u vardır. Sprint 1 için 100 puan planlanmıştır ve sprint sonunda tamamlanmıştır.
+
+- **Backlog düzeni ve Story seçimleri**: Backlog, veri temizliği, backend API taslağı, frontend yükleme formu, Gemini entegrasyonu planlama gibi temel adımları kapsayacak şekilde seçilmiştir.
+
+- **Daily Scrum**: Meet üzerinden haftada 2 gün toplantı yapılarak yürütülmüştür Ekran görüntüleri:
+- [Sprint 1 - Daily Scrum Chats](https://imgur.com/a/GJECLl9)
+
+- **Sprint Board Güncellemesi**: Sprint 1 görevleri tamamlanarak Done sütununa taşınmıştır. Sprint 2 için planlanan işler Sprint Backlog ve In Progress sütunlarına taşınarak çalışma süreci başlatılmıştır. Güncel sprint board durumu aşağıda yer almaktadır.
+
+  
+![Sprint Board](images/Sprint.png)
+
+---
+
+<details> <summary><h3>Ürün Durumu: Ekran Görüntüleri</h3></summary>
+  
+  ![Ürün Görseli](images/1.jpg)
+  ![Ürün Görseli](images/2.jpg)
+  ![Ürün Görseli](images/3.jpg)
+  ![Ürün Görseli](images/4.jpg)
+
+  </details>
+
+## **Sprint Review**
+
+Sprint 1 kapsamında ekip, projenin temel iskeletini tamamlayarak önemli ilerleme kaydetti.
+Backend tarafında veritabanı yapısı ve güvenlik ayarları kuruldu, temel front-end render yapısı ve kullanıcı giriş-çıkış işlemleri hazırlandı. Gemini API başarıyla entegre edilerek kullanıcıdan gelen metin/görsel verisinin işlenmesi sağlandı ve testleri Postman üzerinden doğrulandı.
+Frontend tasarımda splash ekran, chatbot arayüzü, kullanıcı yönetimi ve içerik sayfalarının taslakları hazırlandı. Veri tarafında HAM10000 veri seti seçildi ve ön analizleri tamamlandı.
+Ekip, çıktıları gözden geçirerek eksik noktaları belirledi ve sonraki sprint için düzenleme kararları aldı.
+ 
+Sprint Review katılımcıları: Sude Özübek, Furkan Aras, Batuhan Umay, Ayşe Verda Gülcemal, Rabia Yılmaz
+
+
+## Sprint Retrospective
+
+Ekip Sprint 1 sonunda genel iş paylaşımını değerlendirdi ve herkesin proje akışına katkısının net olduğu görüldü. Veri bilimi tarafında Furkan Aras ve Rabia Yılmaz, model eğitimi üzerine çalışmaya devam edecek. Batuhan Umay backend geliştirmeye odaklanırken, Sude Özübek API entegrasyonu ve backend sürecine destek verecek, Ayşe Verda Gülcemal ise frontend tasarımını ilerletecek.
+
+---

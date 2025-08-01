@@ -168,7 +168,7 @@ Sprint 3’te ekip, genel sistem kararlılığını artırmaya, çıktıları ü
 - **Sprint Board Güncellemesi**: Tüm tamamlanan görevler Done sütununa taşınmış, yapılmayan işler product backlog’a alınmıştır.  
   Güncel sprint board durumu aşağıdadır:
 
-![Sprint Board](images/sprint3.png)
+![Sprint Board](sprint3.png)
 
 ---
 

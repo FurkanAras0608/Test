@@ -152,17 +152,17 @@ Sprint 3’te ekip, genel sistem kararlılığını artırmaya, çıktıları ü
 
 # **Sprint 3**
 
-- **Sprint Notları**: Bu sprintteki görevler, Trello üzerinde detaylandırılmış ve günlük scrum toplantılarında sıkça güncellenmiştir. Bazı kartlarda görev kapsamı doğrudan başlıkla net şekilde anlaşıldığı için açıklama eklenmemiştir.
+- **Sprint Notları**: User Story’ler Trello kartlarında detaylı biçimde yazılmıştır. Kartlara tıklandığında görev kapsamları görülebilir. Yeterince açıklayıcı görev adı olan kartlarda görev kapsamları eklenmemiştir.
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
 - **Puan tamamlama mantığı**: Toplam 300 puanlık backlog’un son 100 puanlık kısmı Sprint 3’e ayrılmıştır. Sprint 3 sonunda sistemin MVP (Minimum Viable Product) versiyonu tamamlanmıştır.
 
-- **Backlog düzeni ve Story seçimleri**: Sprint 3’te proje ürünleştirmeye odaklanmış, kullanıcı deneyimi ve yazılım kararlılığı önceliklendirilmiştir. Veri bilimi tarafında model çıktılarının analizi ve Confusion Matrix oluşturulmuştur. Ayrıca final metrik raporu yazılmış ve model çıktısı projeye entegre edilmiştir.
+- **Backlog düzeni ve Story seçimleri**: Sprint 3’te proje ürünleştirmeye odaklanmış, kullanıcı deneyimi ve yazılım kararlılığı önceliklendirilmiştir. Veri bilimi tarafında model çıktılarının analizi ve Confusion Matrix oluşturulmuştur. Ayrıca model çıktısı projeye entegre edilmiştir.
 
 - **Daily Scrum**: Haftada 2 kez online olarak düzenlenen günlük scrum toplantılarında ilerlemeler değerlendirilmiş ve tıkanıklıklar çözülmüştür.
 
-- **Sprint Board Güncellemesi**: Tüm tamamlanan görevler Done sütununa taşınmış, yapılmayan işler backlog’a alınmıştır.  
+- **Sprint Board Güncellemesi**: Tüm tamamlanan görevler Done sütununa taşınmış, yapılmayan işler product backlog’a alınmıştır.  
   Güncel sprint board durumu aşağıdadır:
 
 ![Sprint Board](images/sprint3.png)
@@ -182,9 +182,8 @@ Sprint 3’te ekip, genel sistem kararlılığını artırmaya, çıktıları ü
 ## **Sprint Review**
 
 Sprint 3 kapsamında proje tamamlanma aşamasına getirilmiştir.  
-Backend tarafında ödeme altyapısı modülü (İyzico entegrasyonu) başlatılmış ancak zaman kısıtı nedeniyle tam entegre edilememiştir. Bununla birlikte kullanıcı yetkilendirme, log yönetimi ve Gemini API ile chatbot sistemi başarıyla çalıştırılmıştır.  
-Frontend tarafında responsive tasarım son hâline getirilmiş, yeni sayfalar (Skin Types, About) projeye eklenmiştir. Chatbot ile etkileşimli açıklama alma ekranı ve loading animasyonları entegre edilmiştir.  
-Veri bilimi tarafında daha önce eğitilen DenseNet121 modelinin çıktıları analiz edilmiş, Confusion Matrix ve diğer başarı metrikleri hazırlanarak raporlanmıştır. Model çıktısı arayüze bağlanarak proje bütünlüğü sağlanmıştır.  
+Backend tarafında kullanıcı yetkilendirme, log yönetimi ve Gemini API ile chatbot sistemi başarıyla çalıştırılmıştır.  
+Frontend tarafında responsive tasarım son hâline getirilmiştir. Veri bilimi tarafında daha önce eğitilen DenseNet121 modelinin çıktıları incelenmiş; Confusion Matrix ve Classification Report gibi temel değerlendirme araçlarıyla modelin performansı gözlemlenmiştir. Model çıktısı arayüze bağlanarak proje bütünlüğü sağlanmıştır.  
 
 Sprint sonunda MVP başarıyla oluşturulmuş, premium modüller ise zaman yetersizliği nedeniyle backlog’ta bırakılmıştır. Bu özellikler potansiyel olarak ileri faz projelerde ele alınacaktır.
 
@@ -197,13 +196,4 @@ Sprint sonunda MVP başarıyla oluşturulmuş, premium modüller ise zaman yeter
 Ekip Sprint 3 sonunda genel bir değerlendirme yaparak proje sürecini tamamladı.  
 Scrum yapısının düzenli kullanılması, takım içi iletişimin güçlü kalmasını sağlamıştır. MVP seviyesinde çalışan bir ürün ortaya çıkarılmış, kod kalitesi ve sistem kararlılığı önemli ölçüde artırılmıştır.  
 
-### Sprint 3’te yapılamayan işler:  
-- Premium kullanıcı kontrol mekanizması  
-- Ödeme işlemi sonrası webhook & rozet entegrasyonu  
-- Premium kullanıcıya özel detaylı rapor ve tahmin geçmişi  
-
-Bu özellikler için teknik temel atılmış olsa da, tam fonksiyonel hâle getirilmesi ileri faza bırakılmıştır.
-
-**Genel Karar:**  
-Proje sonlandırılmış ve demo sunumu için gerekli tüm çıktı ve görseller hazırlanmıştır. Takım, iş birliği ve zaman yönetimi açısından yüksek performans sergilemiştir.
 

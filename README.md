@@ -3,8 +3,11 @@
 **Rapid Devs**
 
 ---
+## **Takım Logosu**
 
+![Logo](https://github.com/user-attachments/assets/d3656d39-534d-46da-90d1-a48268980995)
 
+---
 ## **Takım Elemanları**
 
 | <div align="center">Name</div> | <div align="center">Title</div> | <div align="center">Socials</div> |

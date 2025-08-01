@@ -5,7 +5,7 @@
 ---
 ## **Takım Logosu**
 
-![Logo](logo2.png)
+![Logo](logo3.png)
 
 ---
 ## **Takım Elemanları**

@@ -163,8 +163,9 @@ Sprint 3’te ekip, genel sistem kararlılığını artırmaya, çıktıları ü
 
 - **Backlog düzeni ve Story seçimleri**: Sprint 3’te proje ürünleştirmeye odaklanmış, kullanıcı deneyimi ve yazılım kararlılığı önceliklendirilmiştir. Veri bilimi tarafında model çıktılarının analizi ve Confusion Matrix oluşturulmuştur. Ayrıca model çıktısı projeye entegre edilmiştir.
 
-- **Daily Scrum**: Haftada 2 kez online olarak düzenlenen günlük scrum toplantılarında ilerlemeler değerlendirilmiş ve tıkanıklıklar çözülmüştür.
-
+- **Daily Scrum**: Meet üzerinden haftada 2 gün toplantı yapılarak yürütülmüştür. Ekran görüntüleri:  
+- [Sprint 2 - Daily Scrum Chats]([https://imgur.com/a/qBWnqv6](https://imgur.com/a/zMh2x8N))
+  
 - **Sprint Board Güncellemesi**: Tüm tamamlanan görevler Done sütununa taşınmış, yapılmayan işler product backlog’a alınmıştır.  
   Güncel sprint board durumu aşağıdadır:
 
@@ -174,10 +175,12 @@ Sprint 3’te ekip, genel sistem kararlılığını artırmaya, çıktıları ü
 
 <details> <summary><h3>Ürün Durumu: Ekran Görüntüleri</h3></summary>
   
-  ![Ürün Görseli](images/urun4.jpg)  
-  ![Ürün Görseli](images/urun5.jpg)  
-  ![Ürün Görseli](images/urun6.jpg)
-
+  ![Ürün Görseli](images/l1.jpg)  
+  ![Ürün Görseli](images/l2.jpg)  
+  ![Ürün Görseli](images/l3.jpg)
+  ![Ürün Görseli](images/l4.jpg)  
+  ![Ürün Görseli](images/l5.jpg)
+  
 </details>
 
 ---

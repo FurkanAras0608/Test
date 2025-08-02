@@ -5,7 +5,7 @@
 ---
 ## **Takım Logosu**
 
-<img src="logo3.png" alt="Logo" width="200"/>
+<img src="logo3.png" alt="Logo" width="250"/>
 
 ---
 ## **Takım Elemanları**
